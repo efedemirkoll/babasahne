@@ -1,0 +1,34 @@
+.footer{
+    margin-top: 580px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(70, 70, 70);
+}
+
+p{
+    color: rgba(164, 163, 163, 0.718);
+    padding: 35px;
+}
+
+.button {
+  border: 2px solid white;
+  border-radius: 10px;
+  color: white;
+  padding: 10px 40px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+}
+
+a:hover{
+    color: rgba(0, 0, 0, 0.63);
+}
+
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 280px;
+  }
+  
